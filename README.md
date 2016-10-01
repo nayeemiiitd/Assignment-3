@@ -28,6 +28,3 @@
 4. Icon of the app
 5. Simple and beautifull GUI
 
-
-### Screenshots
-
